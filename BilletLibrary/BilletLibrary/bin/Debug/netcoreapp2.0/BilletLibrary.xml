@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.BaseClass.Pris">
+            <summary>
+            metode signator med pris
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.BaseClass.Køretøj">
+            <summary>
+            Metode signator med string køretøj
+            </summary>
+        </member>
+        <member name="T:BilletLibrary.Bil">
+            <summary>
+            Indholder properties nummerplade og Dato. 
+            Indholder metoden Pris og Køretøj.
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Bil.Pris">
+            <summary>
+            Fast pris 240kr
+            </summary>
+            <returns> decimal 240kr </returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Køretøj">
+            <summary>
+            Returnere Bil i string
+            </summary>
+            <returns>String "Bil"</returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris">
+            <summary>
+            Fast pris 125kr
+            </summary>
+            <returns> decimal 125kr </returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Køretøj">
+            <summary>
+            Returnere Køretøj i string
+            </summary>
+            <returns>String "MC"</returns>
+        </member>
+    </members>
+</doc>

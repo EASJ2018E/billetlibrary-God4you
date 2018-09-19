@@ -17,3 +17,22 @@ C:\Users\afg_k\source\BilletLibrary\BilletLibrary\BilletLibraryTest\bin\Debug\ne
 C:\Users\afg_k\source\BilletLibrary\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.csprojAssemblyReference.cache
 C:\Users\afg_k\source\BilletLibrary\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.csproj.CopyComplete
 C:\Users\afg_k\source\BilletLibrary\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibraryTest.xml
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibraryTest.xml
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.csprojAssemblyReference.cache
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.csproj.CoreCompileInputs.cache
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.AssemblyInfoInputs.cache
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.AssemblyInfo.cs
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.dll
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.pdb
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibraryTest.deps.json
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibraryTest.runtimeconfig.json
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibraryTest.runtimeconfig.dev.json
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibraryTest.dll
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibraryTest.pdb
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibrary.pdb
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.0\BilletLibrary.xml
+C:\source\billetSysterm\Benjamins mappe\billetlibrary-God4you\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.0\BilletLibraryTest.csproj.CopyComplete

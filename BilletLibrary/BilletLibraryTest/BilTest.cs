@@ -40,5 +40,19 @@ namespace BilletLibraryTest
 
             
         }
+
+        /// <summary>
+        /// Test af Brobizz, *New* Method Brobiz() i BaseClass.cs
+        /// </summary>
+        [TestMethod]
+        public void TestBrobizz()
+        {
+            //Arange
+            Bil Lemmo = new Bil();
+            //Act
+            decimal pris = Lemmo.CalcBrobizz(Lemmo.Pris(), true);
+            //Assert
+            Assert.AreEqual(pris,228);
+        }
     }
 }

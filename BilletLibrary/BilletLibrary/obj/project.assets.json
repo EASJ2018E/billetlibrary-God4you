@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\afg_k\\.nuget\\packages\\": {},
+    "C:\\Users\\Nedzad\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\afg_k\\source\\BilletLibrary\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
+      "projectUniqueName": "C:\\source\\billetSysterm\\Benjamins mappe\\billetlibrary-God4you\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
       "projectName": "BilletLibrary",
-      "projectPath": "C:\\Users\\afg_k\\source\\BilletLibrary\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
-      "packagesPath": "C:\\Users\\afg_k\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\afg_k\\source\\BilletLibrary\\BilletLibrary\\BilletLibrary\\obj\\",
+      "projectPath": "C:\\source\\billetSysterm\\Benjamins mappe\\billetlibrary-God4you\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj",
+      "packagesPath": "C:\\Users\\Nedzad\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\billetSysterm\\Benjamins mappe\\billetlibrary-God4you\\BilletLibrary\\BilletLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\afg_k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nedzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

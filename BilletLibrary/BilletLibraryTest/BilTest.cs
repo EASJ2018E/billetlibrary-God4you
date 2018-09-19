@@ -10,7 +10,7 @@ namespace BilletLibraryTest
    public class BilTest
     {
         [TestMethod]
-        public void TestPris()
+        public void TestPris() 
         {
             //Arrange
             Bil b = new Bil(); // opretter objekttet bil
@@ -28,6 +28,17 @@ namespace BilletLibraryTest
             string kT = b.Køretøj(); // metoden string 
             //Assert
             Assert.AreEqual("Bil", kT); //stringen skal give det forventet resultat "Bil" af metoden kT
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentException))]
+        public void TestNummerPlade()
+        {
+            Bil bilTest = new Bil();
+
+            bilTest.Nummerplade = "AD12345678";
+
+            
         }
     }
 }

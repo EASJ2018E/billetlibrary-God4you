@@ -4,6 +4,11 @@
         <name>BilletLibrary</name>
     </assembly>
     <members>
+        <member name="P:BilletLibrary.BaseClass.Nummerplade">
+            <summary>
+            Nummerplade må ikke inholde mere end 7 tal.
+            </summary>
+        </member>
         <member name="M:BilletLibrary.BaseClass.Pris">
             <summary>
             metode signator med pris

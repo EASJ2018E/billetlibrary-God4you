@@ -6,15 +6,48 @@ namespace BilletLibrary
 {
    public abstract class BaseClass
     {
-        public string NummerPlade { get; set; }
-        public DateTime Dato { get; set; }
+        private string _nummerplade;
 
+        //public string nummerPlade;
+        /// <summary>
+        /// Nummerplade må ikke inholde mere end 7 tal.
+        /// </summary>
+        public string Nummerplade
+        {
+            get => _nummerplade;
+            set {
+                if (value.Length >=1 && value.Length <=7)
+                {
+                    _nummerplade = value;
+                }
+                else
+                {
+                    throw new ArgumentException("For mange tal");
+                }
+               
+                }
+        }
+
+        public virtual DateTime Dato { get; set; }
+        public bool Brobizz { get; set; }
+        public decimal Rabat = 0.05m;
         /// <summary>
         /// metode signator med pris
         /// </summary>
         public abstract decimal Pris();
 
-
+        public decimal CalcBrobizz(decimal pris)
+        {
+            if (Brobizz) //Hvis Brobizz er true så gangen prisen med rabatten 0.05
+            {
+                return pris * Rabat;
+            }
+            else
+            {
+                return pris;
+            }
+            
+        }
         /// <summary>
         /// Metode signator med string køretøj
         /// </summary>

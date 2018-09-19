@@ -6,9 +6,6 @@ namespace BilletLibrary
 {
     public class MC : BaseClass
     {
-        public string NummerPlade { get; set; }
-        public DateTime Dato { get; set; }
-
         /// <summary>
         /// Fast pris 125kr
         /// </summary>

@@ -10,15 +10,14 @@ namespace BilletLibrary
     /// </summary>
     public class Bil : BaseClass
     {
-        public string NummerPlade { get; set; }
-        public DateTime Dato { get; set; }
         /// <summary>
         /// Fast pris 240kr
         /// </summary>
         /// <returns> decimal 240kr </returns>
-        public override decimal Pris() 
+        public override decimal Pris()
         {
-            return 240;
+               return 240;
+            
         }
         /// <summary>
         /// Returnere Bil i string

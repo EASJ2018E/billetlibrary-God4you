@@ -29,14 +29,19 @@ namespace BilletLibrary
         }
 
         public virtual DateTime Dato { get; set; }
-        public bool Brobizz { get; set; }
         public decimal Rabat = 0.05m;
         /// <summary>
         /// metode signator med pris
         /// </summary>
         public abstract decimal Pris();
 
-        public decimal CalcBrobizz(decimal pris)
+        /// <summary>
+        /// CalcBrobizz tager prisen for en method og en true / false.
+        /// </summary>
+        /// <param name="brug din pris method her. Ex, Bil.Pris()"></param>
+        /// <param name="Brobizz. Bool. bruge True or False"></param>
+        /// <returns>Prise efter rabat</returns>
+        public decimal CalcBrobizz(decimal pris, bool Brobizz)
         {
             if (Brobizz) //Hvis Brobizz er true så gangen prisen med rabatten 0.05
             {
